@@ -1,4 +1,3 @@
-# Your original FIXED - minimum changes only
 import cv2 
 import winsound 
 import numpy as np 
