@@ -15,7 +15,7 @@ The application uses OpenCV to process video frames and Windows Sound API (winso
   - Hardware: A functional webcam.
   - Python: 3.x
 - Installation
-- - Clone the repository: (https://github.com/jayant25bai11172-pixel/virtual-piano)
+- - Clone the repository: (https://github.com/jayant25bai11172-pixel/virtual-piano.git)
   - Install dependencies: pip install opencv-python numpy
 # Usage
 - Run the script: python Virtual_Instrument.py
