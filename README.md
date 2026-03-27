@@ -1,4 +1,4 @@
-Developed by: Jayant Yadav , Registration Number: 25BAI11172 , University Name: VIT Bhopal
+Developed by: JAYANT YADAV , Registration Number: 25BAI11172 , University Name: VIT BHOPAL
 # Motion-Triggered Virtual-piano
 A Python-based computer vision application that transforms your webcam into an invisible musical instrument. By detecting hand movements within a specific "hot zone" at the top of the screen, the program triggers musical notes (C Major scale) using real-time image processing.
 
