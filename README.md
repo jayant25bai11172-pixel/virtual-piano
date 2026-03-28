@@ -35,3 +35,5 @@ The application uses OpenCV to process video frames and Windows Sound API (winso
 # Troubleshooting
 - Lighting: Ensure you are in a well-lit area. Skin detection is sensitive to shadows and extreme yellow/red lighting.
 - Background: Try to have a neutral background; objects with colors similar to skin tones may cause "ghost notes."
+# License
+This project is made for academic and educational purposes only.
